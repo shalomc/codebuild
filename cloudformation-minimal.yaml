@@ -2,3 +2,4 @@ AWSTemplateFormatVersion: '2010-09-09'
 Outputs:
   Message:
     Value: Hello World
+    Description: Hello World
